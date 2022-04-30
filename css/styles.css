@@ -957,14 +957,12 @@ label>a{
 .checkbox:checked + .check-icon{
   border-color: transparent;
  background-color: #2196f3;
- background-image: url(../images/check-no-fon.svg);
+ background-image: url(../images/icon-check-fgm.svg);
  background-size: contain;
  background-origin:border-box ;
- background-position: center;
-
+ 
 
 }
-
 .licence-box{ 
 font-weight: 400;
 font-size: 14px;
