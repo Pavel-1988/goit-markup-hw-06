@@ -950,7 +950,7 @@ label>a{
   width: 15px;
   height: 15px;
   margin-top: 4px;
-  margin-right: 10px;
+  margin-right: 5px;
   border: 2px solid #212121;
   border-radius: 4px;
   
@@ -962,9 +962,10 @@ label>a{
  background-image: url(../images/icon-check-fgm.svg);
  background-size: contain;
  background-origin:border-box ;
- 
 
 }
+
+
 .licence-box{ 
 font-weight: 400;
 font-size: 14px;
