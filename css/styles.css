@@ -954,8 +954,6 @@ label>a{
   border: 2px solid #212121;
   border-radius: 4px;
   
-  
-  
 }
 
 .checkbox:checked + .check-icon{
@@ -964,6 +962,7 @@ border-color: transparent;
  background-image: url(../images/icon-check-fgm.svg);
  background-size: contain;
  background-origin:border-box;
+transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 }
 
