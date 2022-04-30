@@ -959,7 +959,7 @@ label>a{
 .checkbox:checked + .check-icon{
 border-color: transparent;
  background-color: #2196f3;
- background-image: url(../images/icon-check-fgm.svg);
+ background-image: url(../images/icon-check-slack.svg);
  background-size: contain;
  background-origin:border-box;
 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
